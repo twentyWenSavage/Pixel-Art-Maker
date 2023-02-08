@@ -1,34 +1,16 @@
-# pixel-art-maker
+# Pixel Art Maker Project
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## Table of Contents
 
-### What Will I Build?<br>
-You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas! Check out this example:
+* [Instructions](#instructions)
+* [Contributing](#contributing)
 
-![screen-shot-2017-08-22-at-8 33 49-pm](https://user-images.githubusercontent.com/120768906/217407268-776ef8e4-37b9-4e08-b82a-6b5a19812c87.png)
+## Instructions
 
-You'll be given starter code, including HTML and CSS, to build the application. You'll write JavaScript code that lets the user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
+To get started, open `designs.js` and start building out the app's functionality.
 
-Your users should be able to:
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-Dynamically set the size of the table as an _N_ by _M_ grid.
-Choose a color.
-Click a cell in the grid to fill that cell with the chosen color.
-Your primary task is to implement the makeGrid() function, that dynamically creates a grid that the user can interact with.
+## Contributing
 
-What Skills Do I Need?
-In this project, you'll use your front-end programming skills including:
-
-* []()Defining variables with const and let
-* []()Accessing the DOM using methods of the document object
-* []()Declaring functions and attaching them to DOM objects as event listeners
-* []()Writing nested loops and using loop variables
-* []()How Does This Help My Career?
-* []()Interacting with the DOM — the structure of a web page — is one of the most fundamental skills for a front-end web developer. Mastering event listeners is essential to creating user interfaces — and to quite a few other things.
-
-## Contact
-
-Wen - qli3work@gmail.com
-
-LinkedIn - www.linkedin.com/in/qianwen-li-job
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.

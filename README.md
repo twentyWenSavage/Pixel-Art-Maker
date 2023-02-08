@@ -1,7 +1,5 @@
 # Pixel Art Maker Project
 
-# Cooper Is The Cutest
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
